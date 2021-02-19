@@ -1,0 +1,3 @@
+https://public.tableau.com/profile/anurag.patel#!/vizhome/Covid_19-CasesandDeaths/Quickview
+
+https://public.tableau.com/profile/anurag.patel#!/vizhome/Covid_19-Forecast-Development_Level_of_Countries/Quickview
